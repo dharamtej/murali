@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <div>
+        <b>this is jQuery</b>
+        <p>jquery session</p>
+    </div>
+    <div>
+        <ul>
+            <li>krishna</li>
+            <li>Ganesh</li>
+            <li>Vamsi</li>
+            <li>Dharma</li>
+            <li>Ram Krishma</li>
+        </ul>
+    </div>
+    <script>
+        $(document).ready(function () {
+
+            //$("div").add("p").append("  this is murali krishna").css("color","red");
+            //$("div").children("p").css("background-color", "yellow");
+            // $("ul").each(function (index) { alert(index + ':' + $(this).text()); });
+           // $("ul").parent().css("background-color","red").css("border","2px solid green");
+            //$("p").insertAfter("<h6>practice</h6>");
+            $("p").unwrap();
+
+
+        });
+    </script>
+
+
+</body>
+</html>

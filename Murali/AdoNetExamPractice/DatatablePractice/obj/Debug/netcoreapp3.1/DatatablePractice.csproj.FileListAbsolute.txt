@@ -1,0 +1,13 @@
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\bin\Debug\netcoreapp3.1\DatatablePractice.exe
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\bin\Debug\netcoreapp3.1\DatatablePractice.deps.json
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\bin\Debug\netcoreapp3.1\DatatablePractice.runtimeconfig.json
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\bin\Debug\netcoreapp3.1\DatatablePractice.runtimeconfig.dev.json
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\bin\Debug\netcoreapp3.1\DatatablePractice.dll
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\bin\Debug\netcoreapp3.1\DatatablePractice.pdb
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\obj\Debug\netcoreapp3.1\DatatablePractice.csprojAssemblyReference.cache
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\obj\Debug\netcoreapp3.1\DatatablePractice.AssemblyInfoInputs.cache
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\obj\Debug\netcoreapp3.1\DatatablePractice.AssemblyInfo.cs
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\obj\Debug\netcoreapp3.1\DatatablePractice.csproj.CoreCompileInputs.cache
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\obj\Debug\netcoreapp3.1\DatatablePractice.dll
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\obj\Debug\netcoreapp3.1\DatatablePractice.pdb
+C:\Users\mkasa\source\repos\AdoNetExamPractice\DatatablePractice\obj\Debug\netcoreapp3.1\DatatablePractice.genruntimeconfig.cache

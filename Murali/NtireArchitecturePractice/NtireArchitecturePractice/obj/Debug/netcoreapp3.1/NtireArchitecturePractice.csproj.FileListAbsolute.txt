@@ -1,0 +1,4 @@
+C:\Users\mkasa\source\repos\NtireArchitecturePractice\NtireArchitecturePractice\obj\Debug\netcoreapp3.1\NtireArchitecturePractice.csprojAssemblyReference.cache
+C:\Users\mkasa\source\repos\NtireArchitecturePractice\NtireArchitecturePractice\obj\Debug\netcoreapp3.1\NtireArchitecturePractice.AssemblyInfoInputs.cache
+C:\Users\mkasa\source\repos\NtireArchitecturePractice\NtireArchitecturePractice\obj\Debug\netcoreapp3.1\NtireArchitecturePractice.AssemblyInfo.cs
+C:\Users\mkasa\source\repos\NtireArchitecturePractice\NtireArchitecturePractice\obj\Debug\netcoreapp3.1\NtireArchitecturePractice.csproj.CoreCompileInputs.cache

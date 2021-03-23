@@ -1,0 +1,74 @@
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.exe
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.csprojAssemblyReference.cache
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.AssemblyInfoInputs.cache
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.AssemblyInfo.cs
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.csproj.CopyComplete
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.dll.config
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.deps.json
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.runtimeconfig.json
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.runtimeconfig.dev.json
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.pdb
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.csproj.CoreCompileInputs.cache
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.dll
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.pdb
+C:\Users\mkasa\source\repos\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.genruntimeconfig.cache
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.exe
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.dll.config
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.deps.json
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.runtimeconfig.json
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.runtimeconfig.dev.json
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\AdoNetPractice session.pdb
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.csprojAssemblyReference.cache
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.AssemblyInfoInputs.cache
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.AssemblyInfo.cs
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.csproj.CoreCompileInputs.cache
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.csproj.CopyComplete
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.dll
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.pdb
+C:\Users\mkasa\Desktop\Murali\AdoNetPractice session\AdoNetPractice session\obj\Debug\netcoreapp3.1\AdoNetPractice session.genruntimeconfig.cache
